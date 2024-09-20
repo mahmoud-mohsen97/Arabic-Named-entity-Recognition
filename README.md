@@ -1,1 +1,4 @@
-# Arabic-Named-entity-Recognition
+# Doing NER with :
+ - Spacy
+ - Bi-LSTM
+ - Arabert
